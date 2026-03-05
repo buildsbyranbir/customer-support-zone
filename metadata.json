@@ -1,0 +1,5 @@
+{
+  "name": "Customer Support Zone",
+  "description": "A React-based Customer Support Zone to display customer tickets, track their progress, and mark them as resolved. This interactive dashboard provides a clear overview of support tasks with features like status management and notifications.",
+  "requestFramePermissions": []
+}
